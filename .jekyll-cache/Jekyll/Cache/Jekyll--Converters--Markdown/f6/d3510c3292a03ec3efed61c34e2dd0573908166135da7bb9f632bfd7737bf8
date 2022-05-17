@@ -1,0 +1,8 @@
+I"I<p>We implemented a detection and deformable tracking pipeline for red blood cells.</p>
+
+<p>including automated detection with a Hough Circle Transform, and deformable tracking with our own Python implementation of Distance Regularized Level Set Evolution on top of basic image processing primitives provided by Python’s scikit-image library (e.g. Gaussian Filters). We analyze the behavior of this tracking system and its shortcomings.</p>
+
+<p><a href="/pdfs/cs279.pdf" target="_blank">Paper PDF</a></p>
+
+<p><a href="https://github.com/leonidk/drlse" target="_blank">GitHub</a></p>
+:ET

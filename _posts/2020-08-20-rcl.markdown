@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Robust Collaborative Learning for Noisy Labels"
+date:   2020-08-20 22:21:59 +00:00
+image: /images/hand.png
+categories: research
+author: "Mengying Sun"
+venue: "20th IEEE International Conference on Data Mining"
+authors: "<strong>Mengying Sun</strong>, Jing Xing, Bin Chen, Jiayu Zhou"
+subtitle: "NA"
+arxiv: https://arxiv.org/abs/2012.13670
+code: https://github.com/illidanlab/RCL-code
+---
+
+  

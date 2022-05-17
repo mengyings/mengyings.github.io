@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Learning Deep Neural Networks under Agnostic Corrupted Supervision"
+date:   2021-02-20 22:21:59 +00:00
+image: /images/hand.png
+categories: research
+author: "Mengying Sun"
+venue: "38th International Conference on Machine Learning"
+authors: "Boyang Liu, <strong>Mengying Sun</strong>, Ding Wang, Pang-Ning Tan, Jiayu Zhou"
+subtitle: "NA"
+arxiv: https://arxiv.org/abs/2102.06735
+code: https://github.com/illidanlab/PRL
+---
+
+  

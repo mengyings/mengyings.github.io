@@ -1,0 +1,4 @@
+I"�<p>For testing and validating the functionality of the GINA (Guidance and Inertial NAvigation) mote, a 1.6 gram sensor platform.</p>
+
+<p>I wrote custom low-power firmware to disable and track the power usage the board as different components were put into sleep states. Eventually, the sum of the running components’ current draw (after the removal of the power LEDs) was reduced to 130uA, of which 110uA were sleep-state draw from a magnetometer in single-supply configuration. Many thanks to <a href="http://wsn.eecs.berkeley.edu/" target="_blank">Professor Kris Pister’s research group</a>, including Dr. Anita Flynn and Dr. Thomas Watteyne and Ankur Mehta for the assistance and opportunities.</p>
+:ET

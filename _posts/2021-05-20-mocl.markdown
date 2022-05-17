@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "MoCL: Contrastive Learning on Molecular Graphs with Multi-level Domain Knowledge"
+date:   2021-05-20 22:21:59 +00:00
+image: /images/hand.png
+categories: research
+author: "Mengying Sun"
+venue: "27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+authors: "<strong>Mengying Sun</strong>, Jing Xing, Huijun Wang, Bin Chen, Jiayu Zhou"
+subtitle: "NA"
+arxiv: https://arxiv.org/abs/2106.04509
+code: https://github.com/illidanlab/MoCL-DK
+---
+
+  

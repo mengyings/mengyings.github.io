@@ -1,0 +1,10 @@
+I"<p>Using a single depth sensor, real-time detection of cuboids, accurate estimation of their dimensions, and even some bin-packing.</p>
+
+<p>To show that the Intel RealSense cameras were capable of real-time volume measurement. I designed and built an algorithm that decomposed the problem into two parts, a surface-estimation step and a bounding rectangle step. Then, with basic geometry, was able to build a system that estimated object volume, even with only two visible sides. This was further expanded with a configurable-objective <a href="https://en.wikipedia.org/wiki/Bin_packing_problem" target="_blank">Bin Packing solver</a> that I wrote. The use of this is that most shipping companies (FedEx, USPS, UPS, DHL, etc.) now are limited (and hence charge), by volume not weight.</p>
+
+<p>With the help of <a href="https://github.com/sgorsten" target="_blank">Sterling Orsten</a> and <a href="https://github.com/ddiakopoulos" target="_blank">Dimitri Diakopoulos</a>, we put together a compelling visual prototype that was shown by Intel’s CEO at IDF 2015 (China).</p>
+
+<p><a href="https://www.youtube.com/watch?v=rYnFWkF7Jx8" target="_blank">YouTube video of algorithm</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=ZZvZVaBFpYE" target="_blank">YouTube video of IDF 2015 Demo</a></p>
+:ET
