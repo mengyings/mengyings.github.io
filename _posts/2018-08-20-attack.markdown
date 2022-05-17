@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Identify Susceptible Locations in Medical Records via Adversarial Attacks on Deep Predictive Models"
+date:   2018-08-20 22:21:59 +00:00
+image: /images/hand.png
+categories: research
+author: "Mengying Sun"
+venue: "24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+authors: "<strong>Mengying Sun</strong>, Fengyi Tang, Jinfeng Yi, Fei Wang, Jiayu Zhou"
+subtitle: "NA"
+arxiv: https://arxiv.org/abs/1802.04822
+code: https://github.com/illidanlab/med-attack
+---
+
+  
